@@ -8,3 +8,14 @@
 .trusted-company{
     margin: 0 50px;
 }
+
+/* Footer */
+
+.social-icon a{
+    font-size: 20px;
+    padding: 7px;
+    transition: .5s;
+}
+.social-icon a:hover{
+    color: #fff;
+}
