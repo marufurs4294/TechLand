@@ -3,7 +3,27 @@
     margin: 0;
 }
 /* Banner */
-
+.carousel-item{
+    height: 88vh;
+    min-height: 100px;
+    background-size:cover ;
+}
+.carousel-item img{
+    width: 100%;
+}
+.carousel-caption{
+    bottom: 110px;
+    color: #fff;
+}
+.item-1{
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)),url(images/cover/cover-1.png);
+}
+.item-2{
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)),url(images/cover/cover-2.jpg);
+}
+.item-3{
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.6)),url(images/cover/cover-1.png);
+}
 /* Trusted Company */
 .trusted-company{
     margin: 0 50px;
