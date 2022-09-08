@@ -45,3 +45,8 @@
     margin: 0;
     padding-left: 0;
 }
+
+/* Student Feedback */
+.star-icon i{
+    color: rgba(236, 68, 21, 0.5);
+}
